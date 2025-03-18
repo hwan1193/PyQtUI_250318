@@ -3,4 +3,6 @@
 
 ## 유튜브 영상 및 이미지 첨부한 내용 UI
 
-![Uploading image.png…]()
+![스크린샷 2025-03-18 163229](https://github.com/user-attachments/assets/5ee038cb-3337-4b56-a3d3-67c2610ed878)
+
+
