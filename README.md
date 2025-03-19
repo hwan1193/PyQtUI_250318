@@ -27,8 +27,9 @@ PySide6-WebEngine
 >실행 방법 (How to Run)
 의존성 설치:
 아래 명령어를 터미널이나 명령 프롬프트에 입력하여 필요한 라이브러리를 설치합니다.
-pip install PySide6 PySide6-WebEngine
 
->애플리케이션 실행:
+>pip install PySide6 PySide6-WebEngine
+
+애플리케이션 실행:
 다음 명령어로 애플리케이션을 실행합니다.
-python main.py
+>python main.py
