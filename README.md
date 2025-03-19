@@ -25,6 +25,7 @@ PySide6-WebEngine
 (선택 사항) Steamworks Python 바인딩 (Steam 배포 기능을 사용하려면 필요)
 
 >실행 방법 (How to Run)
+
 의존성 설치:
 아래 명령어를 터미널이나 명령 프롬프트에 입력하여 필요한 라이브러리를 설치합니다.
 
